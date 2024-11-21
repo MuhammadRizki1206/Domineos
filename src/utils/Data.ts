@@ -1,5 +1,3 @@
-// utils/Data.ts
-
 export const initialDominoes: number[][] = [
   [6, 1],
   [4, 3],

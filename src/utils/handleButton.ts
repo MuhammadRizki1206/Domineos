@@ -25,7 +25,7 @@ export const removeDuplicateDominoes = (dominoes: number[][]): number[][] => {
   );
 };
 
-// Fungsi untuk menghapus domino berdasarkan jumlah angka
+// Fungsi untuk menghapus domino berdasarkan hasil penjumlahan dominoes
 export const removeDominoByNumber = (
   dominoes: number[][],
   numberToRemove: number
